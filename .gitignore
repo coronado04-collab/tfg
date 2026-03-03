@@ -1,0 +1,8 @@
+# Entorno virtual
+.venv/
+__pycache__/
+*.pyc
+# Archivos pesados de datos
+*.zip
+Dataset.zip
+Data/data_tfg.zip

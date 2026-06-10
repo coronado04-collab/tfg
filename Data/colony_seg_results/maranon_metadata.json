@@ -1,0 +1,753 @@
+{
+  "patch_list": {
+    "2212228901_W23_T960_colony_0001": {
+      "plate_n": "2212228901_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "2212228901_W23_T960_colony_0001.png",
+      "path": "2212228901_W23_T960/2212228901_W23_T960_colony_0001.png"
+    },
+    "2212228901_W23_T960_colony_0003": {
+      "plate_n": "2212228901_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "2212228901_W23_T960_colony_0003.png",
+      "path": "2212228901_W23_T960/2212228901_W23_T960_colony_0003.png"
+    },
+    "2212228901_W23_T960_colony_0005": {
+      "plate_n": "2212228901_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "2212228901_W23_T960_colony_0005.png",
+      "path": "2212228901_W23_T960/2212228901_W23_T960_colony_0005.png"
+    },
+    "2212228901_W23_T960_colony_0010": {
+      "plate_n": "2212228901_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "2212228901_W23_T960_colony_0010.png",
+      "path": "2212228901_W23_T960/2212228901_W23_T960_colony_0010.png"
+    },
+    "405420301_W23_T960_colony_0002": {
+      "plate_n": "405420301_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "405420301_W23_T960_colony_0002.png",
+      "path": "405420301_W23_T960/405420301_W23_T960_colony_0002.png"
+    },
+    "405420301_W23_T960_colony_0004": {
+      "plate_n": "405420301_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "405420301_W23_T960_colony_0004.png",
+      "path": "405420301_W23_T960/405420301_W23_T960_colony_0004.png"
+    },
+    "405420301_W23_T960_colony_0006": {
+      "plate_n": "405420301_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "405420301_W23_T960_colony_0006.png",
+      "path": "405420301_W23_T960/405420301_W23_T960_colony_0006.png"
+    },
+    "405420301_W23_T960_colony_0011": {
+      "plate_n": "405420301_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "405420301_W23_T960_colony_0011.png",
+      "path": "405420301_W23_T960/405420301_W23_T960_colony_0011.png"
+    },
+    "405420301_W23_T960_colony_0031": {
+      "plate_n": "405420301_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "405420301_W23_T960_colony_0031.png",
+      "path": "405420301_W23_T960/405420301_W23_T960_colony_0031.png"
+    },
+    "405420301_W23_T960_colony_0039": {
+      "plate_n": "405420301_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "405420301_W23_T960_colony_0039.png",
+      "path": "405420301_W23_T960/405420301_W23_T960_colony_0039.png"
+    },
+    "500929401_W23_T960_colony_0002": {
+      "plate_n": "500929401_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "500929401_W23_T960_colony_0002.png",
+      "path": "500929401_W23_T960/500929401_W23_T960_colony_0002.png"
+    },
+    "500929401_W23_T960_colony_0003": {
+      "plate_n": "500929401_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "500929401_W23_T960_colony_0003.png",
+      "path": "500929401_W23_T960/500929401_W23_T960_colony_0003.png"
+    },
+    "500929401_W23_T960_colony_0004": {
+      "plate_n": "500929401_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "500929401_W23_T960_colony_0004.png",
+      "path": "500929401_W23_T960/500929401_W23_T960_colony_0004.png"
+    },
+    "521134601_W23_T960_colony_0006": {
+      "plate_n": "521134601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "521134601_W23_T960_colony_0006.png",
+      "path": "521134601_W23_T960/521134601_W23_T960_colony_0006.png"
+    },
+    "521134601_W23_T960_colony_0012": {
+      "plate_n": "521134601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "521134601_W23_T960_colony_0012.png",
+      "path": "521134601_W23_T960/521134601_W23_T960_colony_0012.png"
+    },
+    "522013501_W23_T960_colony_0009": {
+      "plate_n": "522013501_W23_T960",
+      "species": "Enterococcus faecium",
+      "filename": "522013501_W23_T960_colony_0009.png",
+      "path": "522013501_W23_T960/522013501_W23_T960_colony_0009.png"
+    },
+    "522013501_W23_T960_colony_0023": {
+      "plate_n": "522013501_W23_T960",
+      "species": "Enterococcus faecium",
+      "filename": "522013501_W23_T960_colony_0023.png",
+      "path": "522013501_W23_T960/522013501_W23_T960_colony_0023.png"
+    },
+    "522013501_W23_T960_colony_0027": {
+      "plate_n": "522013501_W23_T960",
+      "species": "Enterococcus faecium",
+      "filename": "522013501_W23_T960_colony_0027.png",
+      "path": "522013501_W23_T960/522013501_W23_T960_colony_0027.png"
+    },
+    "522014401_W23_T960_colony_0003": {
+      "plate_n": "522014401_W23_T960",
+      "species": "Enterobacter aerogenes",
+      "filename": "522014401_W23_T960_colony_0003.png",
+      "path": "522014401_W23_T960/522014401_W23_T960_colony_0003.png"
+    },
+    "522014401_W23_T960_colony_0004": {
+      "plate_n": "522014401_W23_T960",
+      "species": "Enterobacter aerogenes",
+      "filename": "522014401_W23_T960_colony_0004.png",
+      "path": "522014401_W23_T960/522014401_W23_T960_colony_0004.png"
+    },
+    "522014401_W23_T960_colony_0013": {
+      "plate_n": "522014401_W23_T960",
+      "species": "Enterobacter aerogenes",
+      "filename": "522014401_W23_T960_colony_0013.png",
+      "path": "522014401_W23_T960/522014401_W23_T960_colony_0013.png"
+    },
+    "522014401_W23_T960_colony_0018": {
+      "plate_n": "522014401_W23_T960",
+      "species": "Enterobacter aerogenes",
+      "filename": "522014401_W23_T960_colony_0018.png",
+      "path": "522014401_W23_T960/522014401_W23_T960_colony_0018.png"
+    },
+    "522014401_W23_T960_colony_0023": {
+      "plate_n": "522014401_W23_T960",
+      "species": "Enterobacter aerogenes",
+      "filename": "522014401_W23_T960_colony_0023.png",
+      "path": "522014401_W23_T960/522014401_W23_T960_colony_0023.png"
+    },
+    "522015401_W23_T960_colony_0034": {
+      "plate_n": "522015401_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522015401_W23_T960_colony_0034.png",
+      "path": "522015401_W23_T960/522015401_W23_T960_colony_0034.png"
+    },
+    "522339101_W23_T960_colony_0002": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0002.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0002.png"
+    },
+    "522339101_W23_T960_colony_0006": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0006.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0006.png"
+    },
+    "522339101_W23_T960_colony_0007": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0007.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0007.png"
+    },
+    "522339101_W23_T960_colony_0008": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0008.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0008.png"
+    },
+    "522339101_W23_T960_colony_0010": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0010.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0010.png"
+    },
+    "522339101_W23_T960_colony_0012": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0012.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0012.png"
+    },
+    "522339101_W23_T960_colony_0015": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0015.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0015.png"
+    },
+    "522339101_W23_T960_colony_0027": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0027.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0027.png"
+    },
+    "522339101_W23_T960_colony_0030": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0030.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0030.png"
+    },
+    "522339101_W23_T960_colony_0031": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0031.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0031.png"
+    },
+    "522339101_W23_T960_colony_0044": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0044.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0044.png"
+    },
+    "522339101_W23_T960_colony_0052": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0052.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0052.png"
+    },
+    "522339101_W23_T960_colony_0059": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0059.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0059.png"
+    },
+    "522339101_W23_T960_colony_0067": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0067.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0067.png"
+    },
+    "522339101_W23_T960_colony_0086": {
+      "plate_n": "522339101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522339101_W23_T960_colony_0086.png",
+      "path": "522339101_W23_T960/522339101_W23_T960_colony_0086.png"
+    },
+    "522339801_W23_T960_colony_0002": {
+      "plate_n": "522339801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522339801_W23_T960_colony_0002.png",
+      "path": "522339801_W23_T960/522339801_W23_T960_colony_0002.png"
+    },
+    "522339801_W23_T960_colony_0003": {
+      "plate_n": "522339801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522339801_W23_T960_colony_0003.png",
+      "path": "522339801_W23_T960/522339801_W23_T960_colony_0003.png"
+    },
+    "522339801_W23_T960_colony_0004": {
+      "plate_n": "522339801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522339801_W23_T960_colony_0004.png",
+      "path": "522339801_W23_T960/522339801_W23_T960_colony_0004.png"
+    },
+    "522339801_W23_T960_colony_0007": {
+      "plate_n": "522339801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522339801_W23_T960_colony_0007.png",
+      "path": "522339801_W23_T960/522339801_W23_T960_colony_0007.png"
+    },
+    "522339801_W23_T960_colony_0015": {
+      "plate_n": "522339801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522339801_W23_T960_colony_0015.png",
+      "path": "522339801_W23_T960/522339801_W23_T960_colony_0015.png"
+    },
+    "522340801_W23_T960_colony_0003": {
+      "plate_n": "522340801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522340801_W23_T960_colony_0003.png",
+      "path": "522340801_W23_T960/522340801_W23_T960_colony_0003.png"
+    },
+    "522340801_W23_T960_colony_0005": {
+      "plate_n": "522340801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522340801_W23_T960_colony_0005.png",
+      "path": "522340801_W23_T960/522340801_W23_T960_colony_0005.png"
+    },
+    "522340801_W23_T960_colony_0008": {
+      "plate_n": "522340801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522340801_W23_T960_colony_0008.png",
+      "path": "522340801_W23_T960/522340801_W23_T960_colony_0008.png"
+    },
+    "522340801_W23_T960_colony_0010": {
+      "plate_n": "522340801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522340801_W23_T960_colony_0010.png",
+      "path": "522340801_W23_T960/522340801_W23_T960_colony_0010.png"
+    },
+    "522340801_W23_T960_colony_0011": {
+      "plate_n": "522340801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522340801_W23_T960_colony_0011.png",
+      "path": "522340801_W23_T960/522340801_W23_T960_colony_0011.png"
+    },
+    "522340801_W23_T960_colony_0012": {
+      "plate_n": "522340801_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522340801_W23_T960_colony_0012.png",
+      "path": "522340801_W23_T960/522340801_W23_T960_colony_0012.png"
+    },
+    "522347501_W23_T960_colony_0017": {
+      "plate_n": "522347501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522347501_W23_T960_colony_0017.png",
+      "path": "522347501_W23_T960/522347501_W23_T960_colony_0017.png"
+    },
+    "522347501_W23_T960_colony_0042": {
+      "plate_n": "522347501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522347501_W23_T960_colony_0042.png",
+      "path": "522347501_W23_T960/522347501_W23_T960_colony_0042.png"
+    },
+    "522348001_W23_T960_colony_0001": {
+      "plate_n": "522348001_W23_T960",
+      "species": "Enterococcus faecalis",
+      "filename": "522348001_W23_T960_colony_0001.png",
+      "path": "522348001_W23_T960/522348001_W23_T960_colony_0001.png"
+    },
+    "522348001_W23_T960_colony_0005": {
+      "plate_n": "522348001_W23_T960",
+      "species": "Enterococcus faecalis",
+      "filename": "522348001_W23_T960_colony_0005.png",
+      "path": "522348001_W23_T960/522348001_W23_T960_colony_0005.png"
+    },
+    "522348001_W23_T960_colony_0006": {
+      "plate_n": "522348001_W23_T960",
+      "species": "Enterococcus faecalis",
+      "filename": "522348001_W23_T960_colony_0006.png",
+      "path": "522348001_W23_T960/522348001_W23_T960_colony_0006.png"
+    },
+    "522348001_W23_T960_colony_0010": {
+      "plate_n": "522348001_W23_T960",
+      "species": "Enterococcus faecalis",
+      "filename": "522348001_W23_T960_colony_0010.png",
+      "path": "522348001_W23_T960/522348001_W23_T960_colony_0010.png"
+    },
+    "522348601_W23_T960_colony_0004": {
+      "plate_n": "522348601_W23_T960",
+      "species": "Proteus mirabilis",
+      "filename": "522348601_W23_T960_colony_0004.png",
+      "path": "522348601_W23_T960/522348601_W23_T960_colony_0004.png"
+    },
+    "522348601_W23_T960_colony_0020": {
+      "plate_n": "522348601_W23_T960",
+      "species": "Proteus mirabilis",
+      "filename": "522348601_W23_T960_colony_0020.png",
+      "path": "522348601_W23_T960/522348601_W23_T960_colony_0020.png"
+    },
+    "522348601_W23_T960_colony_0048": {
+      "plate_n": "522348601_W23_T960",
+      "species": "Proteus mirabilis",
+      "filename": "522348601_W23_T960_colony_0048.png",
+      "path": "522348601_W23_T960/522348601_W23_T960_colony_0048.png"
+    },
+    "522348601_W23_T960_colony_0066": {
+      "plate_n": "522348601_W23_T960",
+      "species": "Proteus mirabilis",
+      "filename": "522348601_W23_T960_colony_0066.png",
+      "path": "522348601_W23_T960/522348601_W23_T960_colony_0066.png"
+    },
+    "522348601_W23_T960_colony_0083": {
+      "plate_n": "522348601_W23_T960",
+      "species": "Proteus mirabilis",
+      "filename": "522348601_W23_T960_colony_0083.png",
+      "path": "522348601_W23_T960/522348601_W23_T960_colony_0083.png"
+    },
+    "522348601_W23_T960_colony_0105": {
+      "plate_n": "522348601_W23_T960",
+      "species": "Proteus mirabilis",
+      "filename": "522348601_W23_T960_colony_0105.png",
+      "path": "522348601_W23_T960/522348601_W23_T960_colony_0105.png"
+    },
+    "522351801_W23_T960_colony_0035": {
+      "plate_n": "522351801_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522351801_W23_T960_colony_0035.png",
+      "path": "522351801_W23_T960/522351801_W23_T960_colony_0035.png"
+    },
+    "522351801_W23_T960_colony_0046": {
+      "plate_n": "522351801_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522351801_W23_T960_colony_0046.png",
+      "path": "522351801_W23_T960/522351801_W23_T960_colony_0046.png"
+    },
+    "522351801_W23_T960_colony_0129": {
+      "plate_n": "522351801_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522351801_W23_T960_colony_0129.png",
+      "path": "522351801_W23_T960/522351801_W23_T960_colony_0129.png"
+    },
+    "522355601_W23_T960_colony_0019": {
+      "plate_n": "522355601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522355601_W23_T960_colony_0019.png",
+      "path": "522355601_W23_T960/522355601_W23_T960_colony_0019.png"
+    },
+    "522355601_W23_T960_colony_0046": {
+      "plate_n": "522355601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522355601_W23_T960_colony_0046.png",
+      "path": "522355601_W23_T960/522355601_W23_T960_colony_0046.png"
+    },
+    "522373401_W23_T960_colony_0001": {
+      "plate_n": "522373401_W23_T960",
+      "species": "Streptococcus agalactiae",
+      "filename": "522373401_W23_T960_colony_0001.png",
+      "path": "522373401_W23_T960/522373401_W23_T960_colony_0001.png"
+    },
+    "522373401_W23_T960_colony_0002": {
+      "plate_n": "522373401_W23_T960",
+      "species": "Streptococcus agalactiae",
+      "filename": "522373401_W23_T960_colony_0002.png",
+      "path": "522373401_W23_T960/522373401_W23_T960_colony_0002.png"
+    },
+    "522373401_W23_T960_colony_0011": {
+      "plate_n": "522373401_W23_T960",
+      "species": "Streptococcus agalactiae",
+      "filename": "522373401_W23_T960_colony_0011.png",
+      "path": "522373401_W23_T960/522373401_W23_T960_colony_0011.png"
+    },
+    "522373401_W23_T960_colony_0014": {
+      "plate_n": "522373401_W23_T960",
+      "species": "Streptococcus agalactiae",
+      "filename": "522373401_W23_T960_colony_0014.png",
+      "path": "522373401_W23_T960/522373401_W23_T960_colony_0014.png"
+    },
+    "522373401_W23_T960_colony_0015": {
+      "plate_n": "522373401_W23_T960",
+      "species": "Streptococcus agalactiae",
+      "filename": "522373401_W23_T960_colony_0015.png",
+      "path": "522373401_W23_T960/522373401_W23_T960_colony_0015.png"
+    },
+    "522374601_W23_T960_colony_0003": {
+      "plate_n": "522374601_W23_T960",
+      "species": "Serratia marcescens",
+      "filename": "522374601_W23_T960_colony_0003.png",
+      "path": "522374601_W23_T960/522374601_W23_T960_colony_0003.png"
+    },
+    "522374601_W23_T960_colony_0010": {
+      "plate_n": "522374601_W23_T960",
+      "species": "Serratia marcescens",
+      "filename": "522374601_W23_T960_colony_0010.png",
+      "path": "522374601_W23_T960/522374601_W23_T960_colony_0010.png"
+    },
+    "522375501_W23_T960_colony_0001": {
+      "plate_n": "522375501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375501_W23_T960_colony_0001.png",
+      "path": "522375501_W23_T960/522375501_W23_T960_colony_0001.png"
+    },
+    "522375501_W23_T960_colony_0002": {
+      "plate_n": "522375501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375501_W23_T960_colony_0002.png",
+      "path": "522375501_W23_T960/522375501_W23_T960_colony_0002.png"
+    },
+    "522375501_W23_T960_colony_0004": {
+      "plate_n": "522375501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375501_W23_T960_colony_0004.png",
+      "path": "522375501_W23_T960/522375501_W23_T960_colony_0004.png"
+    },
+    "522375501_W23_T960_colony_0008": {
+      "plate_n": "522375501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375501_W23_T960_colony_0008.png",
+      "path": "522375501_W23_T960/522375501_W23_T960_colony_0008.png"
+    },
+    "522375501_W23_T960_colony_0019": {
+      "plate_n": "522375501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375501_W23_T960_colony_0019.png",
+      "path": "522375501_W23_T960/522375501_W23_T960_colony_0019.png"
+    },
+    "522375901_W23_T960_colony_0002": {
+      "plate_n": "522375901_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375901_W23_T960_colony_0002.png",
+      "path": "522375901_W23_T960/522375901_W23_T960_colony_0002.png"
+    },
+    "522375901_W23_T960_colony_0003": {
+      "plate_n": "522375901_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375901_W23_T960_colony_0003.png",
+      "path": "522375901_W23_T960/522375901_W23_T960_colony_0003.png"
+    },
+    "522375901_W23_T960_colony_0006": {
+      "plate_n": "522375901_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375901_W23_T960_colony_0006.png",
+      "path": "522375901_W23_T960/522375901_W23_T960_colony_0006.png"
+    },
+    "522375901_W23_T960_colony_0008": {
+      "plate_n": "522375901_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375901_W23_T960_colony_0008.png",
+      "path": "522375901_W23_T960/522375901_W23_T960_colony_0008.png"
+    },
+    "522375901_W23_T960_colony_0009": {
+      "plate_n": "522375901_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375901_W23_T960_colony_0009.png",
+      "path": "522375901_W23_T960/522375901_W23_T960_colony_0009.png"
+    },
+    "522375901_W23_T960_colony_0033": {
+      "plate_n": "522375901_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522375901_W23_T960_colony_0033.png",
+      "path": "522375901_W23_T960/522375901_W23_T960_colony_0033.png"
+    },
+    "522376401_W23_T960_colony_0024": {
+      "plate_n": "522376401_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376401_W23_T960_colony_0024.png",
+      "path": "522376401_W23_T960/522376401_W23_T960_colony_0024.png"
+    },
+    "522376601_W23_T960_colony_0001": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0001.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0001.png"
+    },
+    "522376601_W23_T960_colony_0002": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0002.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0002.png"
+    },
+    "522376601_W23_T960_colony_0007": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0007.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0007.png"
+    },
+    "522376601_W23_T960_colony_0014": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0014.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0014.png"
+    },
+    "522376601_W23_T960_colony_0022": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0022.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0022.png"
+    },
+    "522376601_W23_T960_colony_0031": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0031.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0031.png"
+    },
+    "522376601_W23_T960_colony_0035": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0035.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0035.png"
+    },
+    "522376601_W23_T960_colony_0081": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0081.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0081.png"
+    },
+    "522376601_W23_T960_colony_0535": {
+      "plate_n": "522376601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522376601_W23_T960_colony_0535.png",
+      "path": "522376601_W23_T960/522376601_W23_T960_colony_0535.png"
+    },
+    "522378001_W23_T960_colony_0368": {
+      "plate_n": "522378001_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522378001_W23_T960_colony_0368.png",
+      "path": "522378001_W23_T960/522378001_W23_T960_colony_0368.png"
+    },
+    "522378001_W23_T960_colony_0476": {
+      "plate_n": "522378001_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522378001_W23_T960_colony_0476.png",
+      "path": "522378001_W23_T960/522378001_W23_T960_colony_0476.png"
+    },
+    "522378001_W23_T960_colony_0491": {
+      "plate_n": "522378001_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522378001_W23_T960_colony_0491.png",
+      "path": "522378001_W23_T960/522378001_W23_T960_colony_0491.png"
+    },
+    "522378501_W23_T960_colony_0011": {
+      "plate_n": "522378501_W23_T960",
+      "species": "Enterococcus faecalis",
+      "filename": "522378501_W23_T960_colony_0011.png",
+      "path": "522378501_W23_T960/522378501_W23_T960_colony_0011.png"
+    },
+    "522378501_W23_T960_colony_0021": {
+      "plate_n": "522378501_W23_T960",
+      "species": "Enterococcus faecalis",
+      "filename": "522378501_W23_T960_colony_0021.png",
+      "path": "522378501_W23_T960/522378501_W23_T960_colony_0021.png"
+    },
+    "522390101_W23_T960_colony_0003": {
+      "plate_n": "522390101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522390101_W23_T960_colony_0003.png",
+      "path": "522390101_W23_T960/522390101_W23_T960_colony_0003.png"
+    },
+    "522390101_W23_T960_colony_0007": {
+      "plate_n": "522390101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522390101_W23_T960_colony_0007.png",
+      "path": "522390101_W23_T960/522390101_W23_T960_colony_0007.png"
+    },
+    "522390101_W23_T960_colony_0008": {
+      "plate_n": "522390101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522390101_W23_T960_colony_0008.png",
+      "path": "522390101_W23_T960/522390101_W23_T960_colony_0008.png"
+    },
+    "522390101_W23_T960_colony_0009": {
+      "plate_n": "522390101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522390101_W23_T960_colony_0009.png",
+      "path": "522390101_W23_T960/522390101_W23_T960_colony_0009.png"
+    },
+    "522390101_W23_T960_colony_0013": {
+      "plate_n": "522390101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522390101_W23_T960_colony_0013.png",
+      "path": "522390101_W23_T960/522390101_W23_T960_colony_0013.png"
+    },
+    "522390101_W23_T960_colony_0022": {
+      "plate_n": "522390101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522390101_W23_T960_colony_0022.png",
+      "path": "522390101_W23_T960/522390101_W23_T960_colony_0022.png"
+    },
+    "522390101_W23_T960_colony_0027": {
+      "plate_n": "522390101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522390101_W23_T960_colony_0027.png",
+      "path": "522390101_W23_T960/522390101_W23_T960_colony_0027.png"
+    },
+    "522390101_W23_T960_colony_0029": {
+      "plate_n": "522390101_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522390101_W23_T960_colony_0029.png",
+      "path": "522390101_W23_T960/522390101_W23_T960_colony_0029.png"
+    },
+    "522391501_W23_T960_colony_0007": {
+      "plate_n": "522391501_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522391501_W23_T960_colony_0007.png",
+      "path": "522391501_W23_T960/522391501_W23_T960_colony_0007.png"
+    },
+    "522391501_W23_T960_colony_0012": {
+      "plate_n": "522391501_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522391501_W23_T960_colony_0012.png",
+      "path": "522391501_W23_T960/522391501_W23_T960_colony_0012.png"
+    },
+    "522391501_W23_T960_colony_0031": {
+      "plate_n": "522391501_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522391501_W23_T960_colony_0031.png",
+      "path": "522391501_W23_T960/522391501_W23_T960_colony_0031.png"
+    },
+    "522391501_W23_T960_colony_0073": {
+      "plate_n": "522391501_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522391501_W23_T960_colony_0073.png",
+      "path": "522391501_W23_T960/522391501_W23_T960_colony_0073.png"
+    },
+    "522391501_W23_T960_colony_0150": {
+      "plate_n": "522391501_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522391501_W23_T960_colony_0150.png",
+      "path": "522391501_W23_T960/522391501_W23_T960_colony_0150.png"
+    },
+    "522391501_W23_T960_colony_0160": {
+      "plate_n": "522391501_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522391501_W23_T960_colony_0160.png",
+      "path": "522391501_W23_T960/522391501_W23_T960_colony_0160.png"
+    },
+    "522391501_W23_T960_colony_0180": {
+      "plate_n": "522391501_W23_T960",
+      "species": "Klebsiella pneumoniae",
+      "filename": "522391501_W23_T960_colony_0180.png",
+      "path": "522391501_W23_T960/522391501_W23_T960_colony_0180.png"
+    },
+    "522392501_W23_T960_colony_0004": {
+      "plate_n": "522392501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522392501_W23_T960_colony_0004.png",
+      "path": "522392501_W23_T960/522392501_W23_T960_colony_0004.png"
+    },
+    "522392501_W23_T960_colony_0006": {
+      "plate_n": "522392501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522392501_W23_T960_colony_0006.png",
+      "path": "522392501_W23_T960/522392501_W23_T960_colony_0006.png"
+    },
+    "522392501_W23_T960_colony_0016": {
+      "plate_n": "522392501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522392501_W23_T960_colony_0016.png",
+      "path": "522392501_W23_T960/522392501_W23_T960_colony_0016.png"
+    },
+    "522392501_W23_T960_colony_0093": {
+      "plate_n": "522392501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522392501_W23_T960_colony_0093.png",
+      "path": "522392501_W23_T960/522392501_W23_T960_colony_0093.png"
+    },
+    "522392601_W23_T960_colony_0005": {
+      "plate_n": "522392601_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522392601_W23_T960_colony_0005.png",
+      "path": "522392601_W23_T960/522392601_W23_T960_colony_0005.png"
+    },
+    "522396501_W23_T960_colony_0010": {
+      "plate_n": "522396501_W23_T960",
+      "species": "Escherichia coli",
+      "filename": "522396501_W23_T960_colony_0010.png",
+      "path": "522396501_W23_T960/522396501_W23_T960_colony_0010.png"
+    }
+  },
+  "species_to_idx": {
+    "Enterobacter aerogenes": 0,
+    "Enterococcus faecalis": 1,
+    "Enterococcus faecium": 2,
+    "Escherichia coli": 3,
+    "Klebsiella pneumoniae": 4,
+    "Proteus mirabilis": 5,
+    "Serratia marcescens": 6,
+    "Streptococcus agalactiae": 7
+  },
+  "idx_to_species": {
+    "0": "Enterobacter aerogenes",
+    "1": "Enterococcus faecalis",
+    "2": "Enterococcus faecium",
+    "3": "Escherichia coli",
+    "4": "Klebsiella pneumoniae",
+    "5": "Proteus mirabilis",
+    "6": "Serratia marcescens",
+    "7": "Streptococcus agalactiae"
+  },
+  "n_classes": 8,
+  "n_crops": 121,
+  "dataset": "Gregorio Maranon Hospital"
+}
